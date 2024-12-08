@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Flash Storage
-- 🌱 Find more details by [my blog](https://darongyang.github.io/blog)
+- 🌱 Find more details from [my blog](https://darongyang.github.io/blog)
 
 <!--
 **darongyang/darongyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
