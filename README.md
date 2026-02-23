@@ -1,7 +1,14 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Flash Storage
-- 🌱 Find more details from [my blog](https://darongyang.github.io/blog)
+> "Systems build the world, AI defines it."
+
+I am a Systems Engineer turned AI Infra Architect. My mission is to build scalable, efficient, and autonomous agentic systems.
+
+Now: 🚀 Architecting Agentic Systems & optimizing LLM Inference Pipelines.
+
+Before: 💾 Deep dived into OS Kernels and Flash Storage performance.
+
+<!-- - 🌱 Find more details from [my blog](https://darongyang.github.io/blog) -->
 
 <!--
 **darongyang/darongyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
