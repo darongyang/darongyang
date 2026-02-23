@@ -4,9 +4,9 @@
 
 I am a Systems Engineer turned AI Infra Architect. My mission is to build scalable, efficient, and autonomous agentic systems.
 
-Now: 🚀 Architecting Agentic Systems & optimizing LLM Inference Pipelines.
+- Now: 🚀 Architecting Agentic Systems & optimizing LLM Inference Pipelines.
 
-Before: 💾 Deep dived into OS Kernels and Flash Storage performance.
+- Before: 💾 Deep dived into OS Kernels and Flash Storage performance.
 
 <!-- - 🌱 Find more details from [my blog](https://darongyang.github.io/blog) -->
 
